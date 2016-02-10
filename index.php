@@ -15,6 +15,9 @@ $boys = [	new Boy (Kyle),
 
 //create 5 girl's group
 $girls = array(5);
-$girls = [	new Girl (),
-			
+$girls = [	new Girl (Leslie),
+			new Girl (Wendy),
+			new Girl (Lola),
+			new Girl (Heidi),
+			new Girl (Jessie)
 ];
